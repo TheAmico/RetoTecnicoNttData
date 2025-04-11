@@ -1,0 +1,40 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #c4dafa;
+}
+
+.app_title {
+  color: #005187;
+  font-weight: 700;
+}
+
+.label {
+  font-weight: 700;
+  color: #005187;
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.value {
+  color: #000;
+  font-weight: 400;
+}
+
+.info_block {
+  margin-bottom: 1rem;
+}
+
+.button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  border-radius: 6px;
+  background-color: #005187;
+  color: #ffffff;
+  border: none;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.button:hover {
+  background-color: #4d82bc;
+}
